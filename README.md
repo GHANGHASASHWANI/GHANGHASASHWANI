@@ -29,10 +29,10 @@
 
 <p align="center">
     <a href="https://wakatime.com/@ashwani#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHANGHASASHWANI&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="40%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHANGHASASHWANI&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="90%" alt="activity graph">
     </a>
     <a href="https://wakatime.com/@ashwani#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHANGHASASHWANI&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="40%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHANGHASASHWANI&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="90%" alt="activity graph">
     </a>
 </p>
 
@@ -40,8 +40,8 @@
 
 
 <p>
-<a href="https://github.com/GHANGHASASHWANI?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanghasashwani&theme=github_dark&hide_border=true" alt="ghanghasashwani" /></a>
-<a href="https://github.com/GHANGHASASHWANI?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanghasashwani&theme=github_dark&hide_border=true" alt="ghanghasashwani" /></a></p>
+<a href="https://github.com/GHANGHASASHWANI?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanghasashwani&theme=github_dark&hide_border=true" alt="ghanghasashwani" width="48%" /></a>
+<a href="https://github.com/GHANGHASASHWANI?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanghasashwani&theme=github_dark&hide_border=true" alt="ghanghasashwani" width="48%"/></a></p>
 
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3AGHANGHASASHWANI+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GHANGHASASHWANI&theme=github_dark&utcOffset=4"  width="31%" alt="@ashwani's productive-time"/></a>
