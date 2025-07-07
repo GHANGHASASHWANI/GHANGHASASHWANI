@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashwani</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome to my Github Profile !!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%20to%20my%20Github%20Profile%20%21%21%21%21" alt="Typing SVG" />
+</a>
 </p>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*bHNVWgvSkauaEVn948mZ-g.jpeg" style="height:300px; width:1000px; object-fit:cover; object-position:center;">
+<div style="text-align: center;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*bHNVWgvSkauaEVn948mZ-g.jpeg"
+       style="height:300px; width:800px; object-fit:cover;">
+</div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
