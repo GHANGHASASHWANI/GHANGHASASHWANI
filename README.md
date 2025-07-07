@@ -6,7 +6,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350" style="height:300px; width:1000px; object-fit:cover; object-position:center;">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*bHNVWgvSkauaEVn948mZ-g.jpeg" style="height:300px; width:1000px; object-fit:cover; object-position:center;">
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/ashwani-ghanghas01/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username ASHWANI . " /></a>
+  <a href="https://www.linkedin.com/in/ashwani-ghanghas71/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username ASHWANI . " /></a>
   <a href="mailto:ghanghasashwani@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   ghanghasashwani@gmail.com" /></a>
  
 <br>
